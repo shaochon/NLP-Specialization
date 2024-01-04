@@ -1,0 +1,9 @@
+
+.DS_Store
+*.h5
+*.mat
+*.mp4
+*.gz
+*.txt
+*.npy
+*.bin
